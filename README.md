@@ -2,7 +2,7 @@
 
 ## Oswaldo Cruz López
 
-##Aplicaciones Web Progresivas
+## Aplicaciones Web Progresivas
 
 ### Ingeniería en Desarrollo y Gestión de Software
 
